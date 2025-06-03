@@ -2,6 +2,8 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,visualstudiocode,opencv
 
 resources/
+models/
+data/
 
 ### OpenCV ###
 #OpenCV for Mac and Linux
